@@ -3,6 +3,8 @@ My Test Of The ~cjfr
 (for my use only...)
 [Edit this file...](https://github.com/Christopher-James-Francis-Rodgers/Christopher-James-Francis-Rodgers/edit/main/README.md)
 
+---
+
 (Credit due:) 
 
 > [Markdown Guide](https://www.markdownguide.org)
@@ -142,11 +144,14 @@ Testing <sup>superscript <sup>superscript level 2</sup></sup>
 
 
 #### Deprecated? 
+
 ```
 H~2~0
 X^2^
 ```
 
+H~2~0
+X^2^
 
 ---
 
