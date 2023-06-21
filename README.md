@@ -5,9 +5,17 @@ My Test Of The ~cjfr
 
 (Credit due:) 
 
-[Markdown Guide](https://www.markdownguide.org)
-
+> [Markdown Guide](https://www.markdownguide.org)
+> 
 > https://www.markdownguide.org/
+
+(Credit due, too:)
+
+> [bt5e/7507535](https://gist.github.com/bt5e/7507535)
+>
+> https://gist.github.com/bt5e/7507535
+
+
 
 ---
 
