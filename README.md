@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Get started with GitHub documentation
+https://docs.github.com/en/get-started
+
 <!--
 **Christopher-James-Francis-Rodgers/Christopher-James-Francis-Rodgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
