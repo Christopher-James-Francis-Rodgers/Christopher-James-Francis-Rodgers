@@ -124,12 +124,18 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-### Subscript
+### Subscript And Superscript
 
-H~2~O
+Testing <sub>subscript</sub> and <sup>superscript</sup>
 
-### Superscript
+Testing <sub>subscript <sub>subscript level 2</sub></sub>
 
+Testing <sup>superscript <sup>superscript level 2</sup></sup>
+
+
+#### Deprecated? 
+
+H~2~0
 X ^2^
 
 
