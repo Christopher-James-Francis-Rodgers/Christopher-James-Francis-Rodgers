@@ -7,8 +7,7 @@
 [Markdown Guide](https://www.markdownguide.org)
 
 > https://www.markdownguide.org/
-> Block-quote
-> (Cont.)
+
 ---
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
