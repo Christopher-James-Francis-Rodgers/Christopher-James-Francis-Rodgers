@@ -1,4 +1,4 @@
-# Markdown Cheat Sheet - My Test Of The ~cjfr
+My Test Of The ~cjfr
 
 [Edit this file...](https://github.com/Christopher-James-Francis-Rodgers/Christopher-James-Francis-Rodgers/edit/main/README.md)
 
@@ -9,6 +9,8 @@
 > https://www.markdownguide.org/
 
 ---
+
+# Markdown Cheat Sheet - 
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
