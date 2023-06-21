@@ -142,10 +142,10 @@ Testing <sup>superscript <sup>superscript level 2</sup></sup>
 
 
 #### Deprecated? 
-
+```
 H~2~0
-X ^2^
-
+X^2^
+```
 
 
 ---
