@@ -3,7 +3,11 @@ My Test Of The 'Markdown Cheat Sheet' from markdownguide.org ~cjfr
 (for my use only...)
 [Edit this file...](https://github.com/Christopher-James-Francis-Rodgers/Christopher-James-Francis-Rodgers/edit/main/README.md)
 
+<https://github.com/Christopher-James-Francis-Rodgers/Christopher-James-Francis-Rodgers/edit/main/README.md>
+
 ---
+
+
 
 (Credit due:) 
 
@@ -17,9 +21,9 @@ My Test Of The 'Markdown Cheat Sheet' from markdownguide.org ~cjfr
 >
 > https://gist.github.com/bt5e/7507535
 
-
-
 ---
+
+
 
 # Markdown Cheat Sheet - 
 
